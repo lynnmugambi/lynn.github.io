@@ -1,4 +1,4 @@
-# lynn.github.io
+# lynnmugambi.github.io
 Portfolio Site
 
 ## 🛠️ Stack
