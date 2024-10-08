@@ -1,36 +1,35 @@
 {
   "basics": {
-    "name": "Lynn Mugambi",
-    "webLabel": "Lynn's Web Space",
-    "label": "Senior Full Stack Developer",
+    "name": "John Doe",
+    "label": "Junior Full Stack Developer",
     "image": "/me_avatar.jpg",
-    "email": "lynnlmugambi@gmail.com",
-    "phone": "",
-    "url": "https://lynnmugambi.github.io",
-    "summary": "In Progress",
+    "email": "john.doe@example.com",
+    "phone": "+1 555-555-5555",
+    "url": "https://johndoe.dev",
+    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Remote",
-      "countryCode": "",
-      "region": "Canada"
+      "postalCode": "10001",
+      "city": "Auckland",
+      "countryCode": "NZ",
+      "region": "New Zealand"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "lynnmugambi",
-        "url": "https://linkedin.com/in/lynnmugambi"
+        "username": "john-doe",
+        "url": "https://linkedin.com/in/john-doe"
       },
       {
         "network": "X",
-        "username": "mweshymiwa",
-        "url": "https://x.com/mweshymiwa"
+        "username": "john-doe",
+        "url": "https://x.com/john-doe"
       },
       {
         "network": "GitHub",
-        "username": "lynnmugambi",
-        "url": "https://github.com/lynnmugambi"
+        "username": "johndoe",
+        "url": "https://github.com/johndoe"
       }
     ]
   },
@@ -54,6 +53,39 @@
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
       "skills": ["React", "Tailwind", "GitHub"]
+    },
+    {
+      "name": "Innovative Solutions",
+      "position": "Junior Software Developer",
+      "location_type": "Hybrid",
+      "location": "Wellington, New Zealand",
+      "url": "https://innovativesolutions.com",
+      "startDate": "2022-06-01",
+      "endDate": "2023-06-01",
+      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Developed and maintained backend services using Python and Django.",
+        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
+        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+      ],
+      "achievements": [
+        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+      ],
+      "skills": ["Python", "Django", "SQL", "Git"]
+    },
+    {
+      "name": "Web Agency",
+      "position": "Intern Web Developer",
+      "location_type": "Remote",
+      "location": "Sydney, Australia",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-01",
+      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "highlights": ["Completed several client projects successfully"],
+      "skills": ["HTML", "CSS"]
     }
   ],
   "volunteer": [
@@ -79,6 +111,32 @@
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
+      ]
+    },
+    {
+      "institution": "Tech Institute",
+      "url": "https://techinstitute.edu",
+      "area": "Software Engineering",
+      "studyType": "Master",
+      "startDate": "2020-09-01",
+      "endDate": "2022-12-01",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "City College",
+      "url": "https://citycollege.edu",
+      "area": "Information Technology",
+      "studyType": "Associate Degree",
+      "startDate": "2017-01-01",
+      "endDate": "2019-12-01",
+      "score": "3.7",
+      "courses": [
+        "IT101 - Networking Fundamentals",
+        "IT102 - Database Management Systems"
       ]
     }
   ],
